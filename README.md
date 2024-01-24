@@ -7,9 +7,10 @@
 <p>Quick access buttons for adding new categories and notes.</p>
 <p>View, edit, or delete individual notes.</p>
 <p>Long-press to delete notes for a convenient user experience.</p>
-#App screenshots
-[Screenshot 2024-01-24 140643](https://github.com/mazineab/MEMO/assets/119409424/9516d6ff-0316-4e67-8330-a53d118e9f52)
-[Screenshot 2024-01-24 140530](https://github.com/mazineab/MEMO/assets/119409424/dc74e82b-9ad9-4379-b0ba-1ac73f9f8d13)
-[Screenshot 2024-01-24 140513](https://github.com/mazineab/MEMO/assets/119409424/2b3841e8-c362-40be-b9dd-79217e56575b)
-[Screenshot 2024-01-24 135440](https://github.com/mazineab/MEMO/assets/119409424/c1ec9488-4853-409f-9530-c34562a47629)
-[Screenshot 2024-01-23 160618](https://github.com/mazineab/MEMO/assets/119409424/690f13e0-878d-44fb-85d9-89b3c887439f)
+# App screenshots
+![Screenshot 2024-01-23 160618](https://github.com/mazineab/MEMO/assets/119409424/62883127-b42f-4aa0-a089-8ad1ff07043e)
+![Screenshot 2024-01-24 135440](https://github.com/mazineab/MEMO/assets/119409424/0f25a42b-fbd9-48e3-b0fa-a47db5b7dce7)
+![Screenshot 2024-01-24 140513](https://github.com/mazineab/MEMO/assets/119409424/d21a7363-3dfd-4846-9fd3-464423435e80)
+![Screenshot 2024-01-24 140530](https://github.com/mazineab/MEMO/assets/119409424/495fdfbd-0128-4eca-ac00-dd102ef8061d)
+![Screenshot 2024-01-24 140643](https://github.com/mazineab/MEMO/assets/119409424/777cdf15-ace1-455a-9434-463980c5c325)
+
