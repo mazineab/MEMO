@@ -9,9 +9,10 @@
 <p>Long-press to delete notes for a convenient user experience.</p>
 
 <p>App screenshots:</p>
-https://github.com/mazineab/MEMO/assets/119409424/62883127-b42f-4aa0-a089-8ad1ff07043e
-https://github.com/mazineab/MEMO/assets/119409424/0f25a42b-fbd9-48e3-b0fa-a47db5b7dce7
-https://github.com/mazineab/MEMO/assets/119409424/d21a7363-3dfd-4846-9fd3-464423435e80
-https://github.com/mazineab/MEMO/assets/119409424/495fdfbd-0128-4eca-ac00-dd102ef8061d
-https://github.com/mazineab/MEMO/assets/119409424/777cdf15-ace1-455a-9434-463980c5c325
+![Screenshot 2024-01-23 160618](https://github.com/mazineab/MEMO/assets/119409424/03c05d33-b3b3-4fc7-99c7-028b39cb12e8)
+![Screenshot 2024-01-24 135440](https://github.com/mazineab/MEMO/assets/119409424/301e5456-4a68-4a56-8c09-9ef42502a437)
+![Screenshot 2024-01-24 140513](https://github.com/mazineab/MEMO/assets/119409424/1dfedfee-f440-4665-b60a-78bd55a7f8c4)
+![Screenshot 2024-01-24 140530](https://github.com/mazineab/MEMO/assets/119409424/46f29097-f1e9-44bf-9e3e-a221113d69c9)
+![Screenshot 2024-01-24 140643](https://github.com/mazineab/MEMO/assets/119409424/aba3a938-403f-4536-a89a-12df86bda0ca)
+
 
