@@ -1,5 +1,5 @@
 # Key Features:
-Create custom categories to organize your notes based on subjects, projects, or themes.
+<p>Create custom categories to organize your notes based on subjects, projects, or themes.</p>
 Default category "All Notes" ensures you have a centralized view of all your notes.
 Add detailed notes with titles and content, supporting both short and long-form writing.
 Attach notes to specific categories for easy categorization.
