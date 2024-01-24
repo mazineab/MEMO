@@ -7,7 +7,8 @@
 <p>Quick access buttons for adding new categories and notes.</p>
 <p>View, edit, or delete individual notes.</p>
 <p>Long-press to delete notes for a convenient user experience.</p>
-# <p>App screenshots:</p>
+
+<p>App screenshots:</p>
 ![Screenshot 2024-01-23 160618](https://github.com/mazineab/MEMO/assets/119409424/62883127-b42f-4aa0-a089-8ad1ff07043e)
 ![Screenshot 2024-01-24 135440](https://github.com/mazineab/MEMO/assets/119409424/0f25a42b-fbd9-48e3-b0fa-a47db5b7dce7)
 ![Screenshot 2024-01-24 140513](https://github.com/mazineab/MEMO/assets/119409424/d21a7363-3dfd-4846-9fd3-464423435e80)
