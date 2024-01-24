@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".View.Fragment.ShowFragment" >
+
+    <EditText
+        android:id="@+id/editTextTextUdpt"
+        android:layout_width="306dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="24dp"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Name"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextTextMultiLine3Updt"
+        android:layout_width="328dp"
+        android:layout_height="349dp"
+        android:layout_marginTop="42dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:inputType="textMultiLine"
+        android:text="aaaaaaa"
+        android:textColor="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextUdpt" />
+
+    <Button
+        android:id="@+id/buttonUpdt"
+        android:layout_width="200dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="39dp"
+        android:backgroundTint="@color/white"
+        android:text="Save Changes"
+        android:textColor="@color/black"
+        android:visibility="invisible"
+        app:cornerRadius="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextMultiLine3Updt" />
+</androidx.constraintlayout.widget.ConstraintLayout>
